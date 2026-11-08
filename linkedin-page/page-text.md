@@ -16,15 +16,11 @@ Where: LinkedIn → your NearFeast page → Admin tools → Edit page.
 - **Location:** San Diego, California (primary)
 
 ## Overview (About)
-NearFeast is a food platform built in San Diego around one idea: search the dish, not the restaurant.
+Keep the current overview (Morteza, 2026-11-08). Optional last line to add:
 
-For offices and shared buildings, NearFeast runs office lunch with one delivery. Everyone picks their own meal from several local restaurants. Orders close at a set time, and everything arrives together at noon. A company can set a lunch budget once, or people can simply pay for their own.
+NearFeast is an AI-powered dining and corporate meal platform that simplifies workplace food ordering and individual dining discovery. Designed for modern businesses, NearFeast provides seamless corporate catering, team meal management, and employee dining solutions, while also offering a direct-to-consumer marketplace for individual orders. By leveraging agentic AI and dish-level data, we connect companies, diners, and restaurants in one intelligent ecosystem.
 
-For restaurants, NearFeast puts their best dishes in front of hungry people nearby, along with simple tools to take orders and market themselves.
-
-For food lovers, NearFeast finds the dish you're craving the way you'd say it, with your dietary needs applied to every search.
-
-We're piloting office lunch at Venture X in Scripps Ranch, San Diego. Run an office, HR team or building? Message us.
+Now piloting office lunch with one delivery at Venture X in Scripps Ranch, San Diego.
 
 ## Specialties (add each one)
 office lunch, team lunch, workplace food, food delivery, restaurant technology, local restaurants, food search
